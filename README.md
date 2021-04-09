@@ -2,10 +2,10 @@
 This project was built with React Native and Redux.
 
 ## Prerequisites
-- [Node.js]
-- [Watchman]
-- [Xcode]
-- [Cocoapods]
+- Node.js
+- Watchman
+- Xcode
+- Cocoapods
 
 ## Installation Process
 
