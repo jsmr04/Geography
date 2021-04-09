@@ -19,6 +19,6 @@ This project was built with React Native and Redux.
 
 5 - Go back `cd ..`
 
-6 - Start metro bundler npx react-native start
+6 - Start metro bundler `npx react-native start`
 
 7 - Run on iOS simulator `npx react-native run-ios`
